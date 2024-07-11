@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This is just a mirror repository of [github.com/fmenat/missingviews-study-EO](https://github.com/fmenat/missingviews-study-EO)
+> 
 # Impact of missing views in multi-view learning models
 <a href="https://github.com/fmenat/mvlearning">  <img src="https://img.shields.io/badge/Package-mvlearning-blue"/>  </a> [![paper](https://img.shields.io/badge/arXiv-2308.05407-D12424)](https://www.arxiv.org/abs/2308.05407) 
 
